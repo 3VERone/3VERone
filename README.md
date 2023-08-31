@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on C++ and PHP projects<br>🌱 I’m currently learning reverse engineering<br>💬 Ask me about Laravel, I'm happy to help
+🔭 I’m currently working primary on Laravel (PHP) projects
+🌱 I’m currently learning reverse engineering 
+💬 Ask me about Laravel, I'm happy to help
 
 
 # 💻 Tech Stack:
